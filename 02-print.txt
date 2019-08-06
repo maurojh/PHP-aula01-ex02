@@ -1,0 +1,10 @@
+Exercício
+
+Troque os comandos echo por print nos arquivos:
+
+vermelho.php
+
+e
+
+verde.php
+
